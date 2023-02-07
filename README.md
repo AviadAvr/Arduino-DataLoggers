@@ -1,7 +1,7 @@
 # DataLoggers_Arduino
 Arduino data logging units for field measurements and lab filtration experiments
 
-These are the codes i used for my Arduino data loggers used for my thesis research. 
+These are the codes i used for my Arduino data loggers used for my MSc thesis research. 
 One data logger was deployed in the field, and used to collect information from a wastewater treatment system year-round: ORP (mV), Pressure (mBar), and Temperature (C).
 
 The other data logger was used in my lab-scale membrane filtration experiments. 
