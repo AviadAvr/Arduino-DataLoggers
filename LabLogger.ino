@@ -1,4 +1,4 @@
-//This is the code for the Arduino connected to the filtration system in Lab 25. It creates a data logging unit for gathering information from a pressure sensor and a scale. The data is then saved on a SD card in the form of a .csv file, which can then be explored by Excel or Pandas.
+//This is the code for the Arduino connected to the filtration experiment system in Lab 25. It creates a data logging unit for gathering information from a pressure sensor and a scale. The data is then saved on a SD card in the form of a .csv file, which can then be explored by Excel or Pandas.
 // Additionally, this contains a code to prevent overflowing of the permeate cup on the scale, by engaging a second peristaltic pump whenever the scale shows >700g.
 
 #include <SPI.h>
