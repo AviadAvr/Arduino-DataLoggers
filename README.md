@@ -13,7 +13,7 @@ The semi-transparent trend is the full data, including negative pressure values 
 ![2-08-22 ozonated water (24 hours) full comparison](https://user-images.githubusercontent.com/124437932/217281316-d7eb3e44-8743-4ae6-83b8-e8e91bd451df.png)
 
 Below, is a comparison of 4 different experiments (moving medians. 2 ozonated, 2 untreated).
-A clear winner (i.e., stable trend), is the ozonated effluent, showing relatively stable performance over the course of 24 hours of filtration!
+A clear winner (i.e., stable trend), is the ozonated effluent, showing relatively stable performance over the course of 70 hours of filtration!
 
 
 
