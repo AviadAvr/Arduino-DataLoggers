@@ -53,8 +53,6 @@ void error(char *str)
   
 }
 
-//String WeightString;
-
 void setup(void)
 {
   //Serial.begin(9600);
