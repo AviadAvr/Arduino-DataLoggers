@@ -11,7 +11,7 @@ The data is then saved on a SD card in the form of a .csv file, which can then b
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-/* what arduino pins to connect to each of the LCD pins.
+/* what arduino pins to connect to each of the LCD pins. Alternatively, the I2C LCD can be connected (if available) for a simpler configuration.
 const int rs = 12, en = 11, d4 = 6, d5 = 5, d6 = 4, d7 = 3;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7); */
 LiquidCrystal_I2C lcd(0x27,20,4);
