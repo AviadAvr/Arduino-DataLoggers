@@ -60,7 +60,6 @@ void setup(void)
   pinMode(Relaypin,OUTPUT);
   digitalWrite(Relaypin, HIGH);
 
-
   //sensors.begin();
   
   lcd.init();
