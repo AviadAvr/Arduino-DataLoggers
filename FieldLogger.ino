@@ -1,4 +1,4 @@
-/* This is the code for the Arduino connected to the pilot wastewater treatment system in Carmey-Avdat. 
+/* This is the code for the Arduino connected to the pilot wastewater treatment system in the Carmey-Avdat farm. 
 It creates a data logging unit for gathering information from a different sensors (ORP, pressure and temperature). 
 The ORP and pressure sensors were calibrated in the lab, while the temp sensor doesn't need to be calibrated (it comes with the DallasTemperature library). 
 The data is then saved on a SD card in the form of a .csv file, which can then be explored by Excel or Pandas. */
